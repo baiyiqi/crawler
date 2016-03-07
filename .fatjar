@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Oct 31 10:31:53 EDT 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=/Users/y/Desktop/duokongSpider.jar
+manifest.mergeall=true
+manifest.mainclass=wenjing.Caiwu.DuoKongSpider
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
